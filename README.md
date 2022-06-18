@@ -15,8 +15,7 @@
 # 💻 Operating Systems & Tools
 
  ![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-51A2DA?logo=Fedora&logoColor=white)
-
-
+ ![macOS](https://img.shields.io/badge/-OS%20X%20El%20Capitan-000000?logo=macOS&logoColor=white)
 
 
 
