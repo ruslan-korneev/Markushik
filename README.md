@@ -1,6 +1,6 @@
-## Hey! Nice to see you 😎
+### Hey! Nice to see you 😎
 
-> Welcome to my page on GitHub :octocat:!
+> Welcome to my page on GitHub! :octocat:
 
 
 > I'm Mark, 16 y. o.
