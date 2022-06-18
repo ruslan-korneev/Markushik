@@ -1,4 +1,4 @@
-# Hey! Nice to see you 😎
+## Hey! Nice to see you 😎
 
 > Welcome to my page on GitHub! :octocat:
 
@@ -12,7 +12,7 @@
 > I live in the capital of country - Moscow. 
 
 
-# 💻 Operating Systems & Tools
+## 💻 Operating Systems & Tools
 
  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=plastic)
  ![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-51A2DA?logo=Fedora&logoColor=white&style=plastic)
@@ -24,7 +24,7 @@
  ![Disocrd](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=plastic)
  
 
-# 🚀 Stack of Technologies
+## 🚀 Stack of Technologies
  ![Python](https://img.shields.io/badge/-Pyhton-3776AB?logo=Python&logoColor=white&style=plastic)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=plastic)
  ![BitBucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&logoColor=white&style=plastic)
