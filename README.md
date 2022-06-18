@@ -25,3 +25,11 @@
  
 
 # 🚀 Stack of Technologies
+ ![Python](https://img.shields.io/badge/-Pyhton-3776AB?logo=Python&logoColor=white&style=plastic)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=plastic)
+ ![BitBucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=Bitbucket&logoColor=white&style=plastic)
+ ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=plastic)
+ ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=Heroku&logoColor=white&style=plastic)
+ ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=white&style=plastic)
+ ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=plastic)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=plastic)
