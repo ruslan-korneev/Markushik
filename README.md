@@ -20,5 +20,7 @@
 
  ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=plastic)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-2a9134?logo=PyCharm&logoColor=white&style=plastic)
+ ![Disocrd](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=plastic)
+ ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7a007a?logo=GitHub&logoColor=white&style=plastic)
 
 # 🚀 Stack of Technologies
