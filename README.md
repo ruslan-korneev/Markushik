@@ -12,6 +12,6 @@
 > I live in the capital of country - Moscow. 
 
 
-## 💻 Operating Systems & Tools
+# 💻 Operating Systems & Tools
 
-## 🚀 Stack of Technologies
+# 🚀 Stack of Technologies
