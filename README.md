@@ -1,5 +1,8 @@
 ## Hey! Nice to see you 😎
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 > Welcome to my page on GitHub! :octocat:
 
 
