@@ -41,4 +41,4 @@
 ## ⚡ GitHub Statistics
 
  ![Markushik](https://github-readme-stats.vercel.app/api?username=Markushik)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Markushik/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Markushik)
