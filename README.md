@@ -38,4 +38,4 @@
  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 
-## ⚡ Github Stats
+## ⚡ GitHub Statistics
