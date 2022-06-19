@@ -1,6 +1,6 @@
-## Hey! Nice to see you 😎
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you
 
-<!-- Any image aligned to the right. Beware the width -->
+
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 > Welcome to my page on GitHub! :octocat:
