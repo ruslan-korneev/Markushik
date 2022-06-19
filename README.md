@@ -39,3 +39,5 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge)
 
 ## ⚡ GitHub Statistics
+
+ ![Markushik](https://github-readme-stats.vercel.app/api?username=Markushik)
