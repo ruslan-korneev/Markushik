@@ -8,7 +8,7 @@
 > I'm Mark, 16 y. o.
 
 
-> Backend Developer from :RU:
+> Junior Developer from :RU:
 
 
 > I live in the capital of country - Moscow. 
