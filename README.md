@@ -4,16 +4,6 @@
 
 > Welcome to my page on GitHub! :octocat:
 
-
-> I'm Mark, 16 y. o.
-
-
-> Junior Developer from :RU:
-
-
-> I live in the capital of country - Moscow. 
-
-
 ## 💻 Operating Systems & Tools
 
  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge)
