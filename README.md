@@ -1,6 +1,5 @@
 ## Hi there, [Mark](https://github.com/Markushik) here 👋🏼
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 > Welcome to my page on GitHub! :octocat:
 
