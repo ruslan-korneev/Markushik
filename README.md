@@ -29,4 +29,4 @@
 
 ## ⚡ GitHub Statistics
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Markushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Markushik)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Markushik&layout=compact&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&text_color=c3c6ce&icon_color=4e64f7)](https://github.com/Markushik)
