@@ -9,7 +9,6 @@
  ![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge)
  ![macOS](https://img.shields.io/badge/-OS%20X%20El%20Capitan-323031?logo=macOS&logoColor=white&style=for-the-badge)
 
- ![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-2a9134?logo=PyCharm&logoColor=white&style=for-the-badge)
  ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7a007a?logo=GitHub&logoColor=white&style=for-the-badge)
  ![Disocrd](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)
