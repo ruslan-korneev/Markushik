@@ -2,8 +2,6 @@
 
 
 > Welcome to my page on GitHub! :octocat:
-(14072022/9653934)
-zem_mark@yahoo.com
 
 ## 💻 Operating Systems & Tools
 
