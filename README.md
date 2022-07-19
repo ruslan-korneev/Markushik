@@ -10,7 +10,8 @@ zem_mark@yahoo.com
  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge)
  ![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge)
  ![macOS](https://img.shields.io/badge/-OS%20X%20El%20Capitan-323031?logo=macOS&logoColor=white&style=for-the-badge)
-
+ 
+ ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=JetBrains&logoColor=white&style=for-the-badge)
  ![PyCharm](https://img.shields.io/badge/-PyCharm-2a9134?logo=PyCharm&logoColor=white&style=for-the-badge)
  ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-7a007a?logo=GitHub&logoColor=white&style=for-the-badge)
  ![Disocrd](https://img.shields.io/badge/-Discord-5865F2?logo=Discord&logoColor=white&style=for-the-badge)
