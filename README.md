@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Markushik&label=Profile Views&color=orange&style=for-the-badge" alt="Markushik Profie Views" /> </p>
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,,github,,git,py,redis,postgres,docker,kubernetes,heroku&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,github,git,py,redis,postgres,docker,kubernetes,heroku&theme=dark)](https://skillicons.dev)
 
 ## ⚡ GitHub Activities
 
