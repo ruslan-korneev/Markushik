@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Markushik&label=Profile Views&color=succses&style=for-the-badge" alt="Markushik Profie Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Markushik&label=Profile Views&color=succsess&style=for-the-badge" alt="Markushik Profie Views" /> </p>
 
 ## 🚀 Stack of Technologies
 [![My Skills](https://skillicons.dev/icons?i=linux,github,git,vscode,py,redis,postgres,docker,kubernetes,heroku,discord&theme=dark)](https://skillicons.dev)
